@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyCGO4Q_rJ6rmA57n5cQWs4bS2KwpuX1NHA";
+const API_KEY = "AIzaSyCb--hRBAL1ldt3y0dWyOLdvtJkt2wNCxc";
 const BASE_URL = "https://www.googleapis.com/youtube/v3";
 
 let newObj = JSON.parse(localStorage.getItem("userInputs"));
