@@ -124,7 +124,7 @@ function setVideoId() {
       if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
         window.location.pathname = "/videoDetails.html";
       } else {
-        window.location.pathname = "/youtube-clone/videoDetails.html";
+        window.location.pathname = "/Youtube-clone/videoDetails.html";
       }
     });
   }
